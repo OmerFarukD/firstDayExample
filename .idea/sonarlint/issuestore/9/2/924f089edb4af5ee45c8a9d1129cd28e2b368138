@@ -1,0 +1,48 @@
+
+]
+java:S1220""Move this file to a named package.8€îÁÓó1J$8ad815c1-ed87-40da-86e2-4d8405ba701c
+
+java:S1854m"=Remove this useless assignment to local variable "dogruluk1".(…Í×O8ÌÉÅÓó1J$dee4b28a-a581-4d0c-bd7d-b66a4317b1bd
+€
+java:S1854p"=Remove this useless assignment to local variable "dogruluk2".(ıñûÚ8ÍÉÅÓó1J$544a0fc8-ff5a-445c-9b25-4058364c72f3
+
+java:S1854r"=Remove this useless assignment to local variable "dogruluk3".(»™š8ÍÉÅÓó1J$b6db8d9e-3aaf-4286-930b-26ae6c43f62f
+€
+java:S1854t"=Remove this useless assignment to local variable "dogruluk4".(ÿ†íó8ÍÉÅÓó1J$857163dc-64dc-4229-b22f-5d6dbb99caa2
+r	java:S106>"+Replace this use of System.out by a logger.(©™ÿÿÿÿÿ8äîÁÓó1J$1d5525fd-2c68-4583-9cf8-b7fec371fbb2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(›Ñ­ûÿÿÿÿ8åîÁÓó1J$42b036e6-dfdd-4673-90a8-8b145a3e4bec
+~	java:S125"<This block of commented-out lines of code should be removed.(âÙÄÅ8åîÁÓó1J$5ea797d1-1245-4192-bb5f-57563a7be10b
+~	java:S125-"<This block of commented-out lines of code should be removed.(ø½µƒ8åîÁÓó1J$be5a779f-7b3e-487d-b4b4-5a636abce7ae
+z
+java:S1135"2Complete the task associated to this TODO comment.(åÒÇËıÿÿÿÿ8æîÁÓó1J$8b2e4c99-efa1-4b01-af38-86552536aea0
+u
+java:S1135"2Complete the task associated to this TODO comment.(Ê¬Í8æîÁÓó1J$02daf1c6-b680-4e98-90fa-4e2b37ef4515
+u
+java:S1135+"2Complete the task associated to this TODO comment.(·›¥ 8æîÁÓó1J$88f1c6b7-278e-443d-b37a-296baaf33e89
+z
+java:S11355"2Complete the task associated to this TODO comment.(¨Õùéüÿÿÿÿ8æîÁÓó1J$7616b3a2-3b9c-473b-8b17-c745ef9bfdb3
+m	java:S106B"+Replace this use of System.out by a logger.(Ü¯¬«8æîÁÓó1J$6ea3ef4a-4b7d-4a0e-8b9e-fa7291279786
+r	java:S106E"+Replace this use of System.out by a logger.(Åş«×ıÿÿÿÿ8çîÁÓó1J$46deb463-ae10-45ec-9cf9-2dca3c2aabd2
+m	java:S106H"+Replace this use of System.out by a logger.(‘ËÅØ8çîÁÓó1J$20864777-b899-4cc4-81ed-c27fd3e697f5
+m	java:S106K"+Replace this use of System.out by a logger.(²ğ×Å8çîÁÓó1J$ec6fb3ff-3427-4e2e-831d-d5cb92d65cb4
+r	java:S106Q"+Replace this use of System.out by a logger.(İ¤Ã¥ÿÿÿÿÿ8çîÁÓó1J$cabf0ed8-2212-4b0e-900e-9ab9b3159ce1
+m	java:S106T"+Replace this use of System.out by a logger.(œéôÍ8çîÁÓó1J$9de35de6-99d5-4df2-bd5f-a6e4ccde5b46
+r	java:S106W"+Replace this use of System.out by a logger.(»ş‹˜üÿÿÿÿ8çîÁÓó1J$eca943d6-72c2-4052-b6ec-c5979e097f5b
+m	java:S106Z"+Replace this use of System.out by a logger.(Ì®¦ú8çîÁÓó1J$cfdfdf0d-8f10-49e8-8581-3a5fa03f162a
+r	java:S106d"+Replace this use of System.out by a logger.(ŒºÇ¨øÿÿÿÿ8èîÁÓó1J$9e4f0396-264a-416b-9d31-d91491aa2e4a
+p
+java:S1481m".Remove this unused "dogruluk1" local variable.(…Í×O8ÓÉÅÓó1J$96546c5c-d04f-4e59-b6ad-f47de99e4a99
+q
+java:S1481p".Remove this unused "dogruluk2" local variable.(ıñûÚ8ÓÉÅÓó1J$5286f793-f64f-4fbc-bb62-2e4b1350cc15
+
+java:S1764r"KCorrect one of the identical sub-expressions on both sides of operator "=="(»™š8èîÁÓó1J$b5ff94d6-a757-487c-81bd-71e23307daa5
+p
+java:S1481r".Remove this unused "dogruluk3" local variable.(»™š8ÔÉÅÓó1J$5ba41534-995d-44a7-8e75-76c5b26feb58
+q
+java:S1481t".Remove this unused "dogruluk4" local variable.(ÿ†íó8ÔÉÅÓó1J$14997add-34cb-4052-af4f-ba4ba37a4ad0
+r	java:S106~"+Replace this use of System.out by a logger.(‡òöñúÿÿÿÿ8éîÁÓó1J$c7dbda76-e437-4a36-be5a-928d31d306bd
+u
+java:S1135{"2Complete the task associated to this TODO comment.(¼ˆØñ8éîÁÓó1J$8c5e1743-425f-4427-be9d-acd967072a3e
+n	java:S106"+Replace this use of System.out by a logger.(Àœ´8éîÁÓó1J$d33533da-aa52-45e2-bd38-1620a660942c
+s	java:S106…"+Replace this use of System.out by a logger.(Ëß‚øÿÿÿÿ8êîÁÓó1J$24b2849f-7af0-4348-919f-e00865f077e9
+s	java:S106‡"+Replace this use of System.out by a logger.(Û°¥Éÿÿÿÿÿ8êîÁÓó1J$29f723a1-f649-47b7-a775-5807c2aa0207
